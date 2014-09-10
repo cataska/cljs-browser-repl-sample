@@ -1,4 +1,4 @@
-Sample for ClojureScript browser repl
+# Sample for ClojureScript browser repl
 
 ## Usage
 
