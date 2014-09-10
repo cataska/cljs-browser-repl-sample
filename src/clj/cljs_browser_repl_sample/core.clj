@@ -1,5 +1,4 @@
 (ns cljs-browser-repl-sample.core
-  (:gen-class)
   (:require [compojure.core :refer [GET defroutes]]
             [compojure.handler :refer [site]]
             [compojure.route :as route]
